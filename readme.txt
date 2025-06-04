@@ -36,6 +36,11 @@ Elle propose une interface simple et intuitive permettant de centraliser les inf
  Pour l'installation, il faut exécuter le .msi dans /mediatek86/MediaTek86Install/Debug
  Pour lancer le programme il suffit ensuite de lancer l'exécutable Mediatek86.exe dans mediatek86/bin/Debug
 
+## Connexion 
+
+Identifiant : admin
+Mot de passe : admin123
+
 ## À propos
 
 Ce projet a été réalisé dans le cadre du BTS SIO option SLAM.
