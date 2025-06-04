@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9by4RLor52E=",
+  "dgSpecHash": "7CUQFLfLg2U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\puff9\\Pictures\\devoir\\MediaTek86.csproj",
+  "projectFilePath": "C:\\Users\\puff9\\Pictures\\mediatek86\\MediaTek86.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\puff9\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\puff9\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

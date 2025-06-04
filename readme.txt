@@ -21,15 +21,20 @@ Elle propose une interface simple et intuitive permettant de centraliser les inf
 
  modele/ : contient les classes représentant les entités métier (Personnel, Absence, Motif, etc.)
  dal/ : assure la communication entre l’application et la base de données
- `bddmanager/ : gère la connexion à la base de données MySQL
+ bddmanager/ : gère la connexion à la base de données MySQL
  vue/ : regroupe toutes les interfaces graphiques
 
-## Prérequis
+## Prérequis pour MediaTek86.csproj
 
  Visual Studio (idéalement version 2022)
  MySQL installé localement (port 3307 par défaut)
- Un utilisateur MySQL nommé `mediatek` avec le mot de passe `admin123`
+ Un utilisateur MySQL nommé "mediatek" avec le mot de passe "admin123"
  La base de données peut être générée à l’aide du script SQL fourni avec le projet
+
+## Lancement
+
+ Pour l'installation, il faut exécuter le .msi dans /mediatek86/MediaTek86Install/Debug
+ Pour lancer le programme il suffit ensuite de lancer l'exécutable Mediatek86.exe dans mediatek86/bin/Debug
 
 ## À propos
 

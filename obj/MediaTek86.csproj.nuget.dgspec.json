@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\puff9\\Pictures\\devoir\\MediaTek86.csproj": {}
+    "C:\\Users\\puff9\\Pictures\\mediatek86\\MediaTek86.csproj": {}
   },
   "projects": {
-    "C:\\Users\\puff9\\Pictures\\devoir\\MediaTek86.csproj": {
+    "C:\\Users\\puff9\\Pictures\\mediatek86\\MediaTek86.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\puff9\\Pictures\\devoir\\MediaTek86.csproj",
+        "projectUniqueName": "C:\\Users\\puff9\\Pictures\\mediatek86\\MediaTek86.csproj",
         "projectName": "MediaTek86",
-        "projectPath": "C:\\Users\\puff9\\Pictures\\devoir\\MediaTek86.csproj",
+        "projectPath": "C:\\Users\\puff9\\Pictures\\mediatek86\\MediaTek86.csproj",
         "packagesPath": "C:\\Users\\puff9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\puff9\\Pictures\\devoir\\obj\\",
+        "outputPath": "C:\\Users\\puff9\\Pictures\\mediatek86\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

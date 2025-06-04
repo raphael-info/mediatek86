@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediaTek86")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24322599c1484442aec3ac12deee5b45937b04d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediaTek86")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediaTek86")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
